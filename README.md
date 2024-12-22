@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m @davidecarluccio
-- 👀 I’m an Information Engineering student
-- 🌱 I’m currently learning neural networks and computer engineering
+- 👀 I’m an Information Engineering Student
+- 🌱 I’m currently learning Neural Networks and Computer Engineering
